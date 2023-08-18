@@ -1,2 +1,2 @@
 # nmcg_web
-Legacy repositorija priparkuoti svetainei
+Legacy repositorija priparkuoti domenui
